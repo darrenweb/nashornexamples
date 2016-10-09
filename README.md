@@ -1,3 +1,8 @@
+cd .../askari/src
+jjs -cp ../lib/tools.jar -scripting -fx askari.js
+
+You should be able to load a small script (use open door), set breakpoints (click on dimmed stop sign), step and view values. 
+
 nashornexamples
 ===============
 
